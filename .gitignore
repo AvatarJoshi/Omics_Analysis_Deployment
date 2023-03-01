@@ -1,3 +1,7 @@
+# Ignore these files
+.DS_Store
+pgen.1008897.s004.xlsx
+
 # History files
 .Rhistory
 .Rapp.history
